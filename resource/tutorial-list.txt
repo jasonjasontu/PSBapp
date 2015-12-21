@@ -1,0 +1,2 @@
+1. Develop Android App via Python by pygame:
+	url: ep2013.europython.eu/conference/talks/developing-android-apps-completely-in-python
